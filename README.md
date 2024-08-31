@@ -1,6 +1,6 @@
 # Hypothesis
 
-What happens when a gambler invests in the stock market? The idea is to invest a defined amount every day. If the stock price goes down, you invest double the amount.
+What happens when a gambler invests in the [stock](https://www.google.com/finance/quote/GME:NYSE?sa=X&ved=2ahUKEwic06fxuZ-IAxWUhP0HHQlpJRkQ3ecFegQIQhAh) market? The idea is to invest a defined amount every day. If the stock price goes [down](https://www.google.com/finance/quote/NOKIA:HEL?sa=X&ved=2ahUKEwj4raqqu5-IAxX_Q6QEHewIJqUQ3ecFegQIRRAh&window=MAX), you invest double the amount.
 
 # Dataset
 The [dataset](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?resource=download&select=sp500_index.csv#) used, to test this gambler's approach to investing, was the daily closing price of the S&P500 index.
@@ -66,5 +66,7 @@ During __6.95 years__, assuming the defined amount by the [gambler](https://dani
 The results show that the [gambler](https://danielvcorreia.com/+18) was not on a good day.
 
 # Disclamer
-We are not financial advisors. This is not financial advice. Non-legally binding. You may lose your money. Your house. Your wife. Your waifus. You name it.
+All data and information is provided “as is” for informational purposes only, and is not intended for trading purposes or financial, investment, tax, legal, accounting or other advice. Please consult your broker or financial representative to verify pricing before executing any trade. [We are not investment advisers](https://www.youtube.com/watch?v=aAEAf60_iX8), financial advisers, or securities brokers. None of the data and information constitutes investment advice nor an offering, recommendation or solicitation by us to buy, sell or hold any security or financial product, and [we](https://www.youtube.com/watch?v=dwjPIVhCO2U) make no representation (and have no opinion) regarding the advisability or suitability of any investment.
+
+We are not [financial](https://www.youtube.com/watch?v=Bgqk6t9Be1Q) advisors. This is not [financial](https://www.youtube.com/watch?v=Bgqk6t9Be1Q) advice. Non-[legally](https://www.youtube.com/watch?v=Bgqk6t9Be1Q) binding. You may lose your [money](https://www.youtube.com/watch?v=Bgqk6t9Be1Q). Your house. Your wife. Your waifus. [You](https://www.youtube.com/watch?v=Bgqk6t9Be1Q) name it.
 
