@@ -59,8 +59,8 @@ During __6.95 years__, assuming the defined amount by the [gambler](https://dani
 
 | Strategy | Invested | Balance |
 | ----------- | ----------- | ----------- |
-| Gambler | $37140 | $71263 |
-| Yearly | $37705 | $79076 |
-| Monthly | $37200 | $71781 |
+| Gambler | $36840 | $70405 |
+| Yearly | $37655 | $79071 |
+| Monthly | $36920 | $70925 |
 
 The results show that the [gambler](https://danielvcorreia.com/+18) was not in a good day.
