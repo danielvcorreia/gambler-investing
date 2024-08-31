@@ -1,8 +1,8 @@
-# A gambler's approach to investing
+# Hypothesis
 
-What happens when a gambler invests in the stock market? Let's see the results shall we?!
+What happens when a gambler invests in the stock market? The idea is to invest a defined amount every day. If the stock price goes down, you invest double the amount.
 
-## Dataset
+# Dataset
 The [dataset](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?resource=download&select=sp500_index.csv#) used, to test this gambler's approach to investing, was the daily closing price of the S&P500 index.
 Here is the head of the dataset:
 
@@ -43,17 +43,24 @@ Here is the head of the dataset:
   </tbody>
 </table>
 
+# Strategies
 ## Gambler Strategy
 Invest a defined amount every day. If the stock price goes down, you invest double the amount.
 
-For __6.95 years__ you invested a total of __$37140 dollars__ and you ended up with a total of __$71263 dollars__
-
 ## Yearly Strategy
-Invest the same amount that the [Gambler Strategy](#gambler-strategy) will invest in a year, but all up front in the begining of the year
-    
-For __6.95 years__ you invested a total of __$37705__ and you ended up with a total of __$79076__
+Invest the same amount that the [Gambler Strategy](#gambler-strategy) will invest in a year, but all upfront at the beginning of the year.
     
 ## Monthly Strategy
-Invest the same amount that the [Gambler Strategy](#gambler-strategy) will invest in a month, but all up front in the begining of the month
-    
-For __6.95 years__ you invested a total of __$37200__ and you ended up with a total of __$71780__
+Invest the same amount that the [Gambler Strategy](#gambler-strategy) will invest in a month, but all upfront at the beginning of the month.
+
+# Results
+
+During __6.95 years__, assuming the defined amount by the [gambler](https://danielvcorreia.com/nsfw) is __$10__ if the S&P500 index goes up and __$20__ if it goes down or stays the same, the results obtained were:
+
+| Strategy | Invested | Balance |
+| ----------- | ----------- | ----------- |
+| Gambler | $37140 | $71263 |
+| Yearly | $37705 | $79076 |
+| Monthly | $37200 | $71781 |
+
+The results show that the [gambler](https://danielvcorreia.com/+18) was not in a good day.
