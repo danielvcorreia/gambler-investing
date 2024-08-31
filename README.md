@@ -63,4 +63,8 @@ During __6.95 years__, assuming the defined amount by the [gambler](https://dani
 | Yearly | $37655 | $79071 |
 | Monthly | $36920 | $70925 |
 
-The results show that the [gambler](https://danielvcorreia.com/+18) was not in a good day.
+The results show that the [gambler](https://danielvcorreia.com/+18) was not on a good day.
+
+# Disclamer
+We are not financial advisors. This is not financial advice. Non-legally binding. You may lose your money. Your house. Your wife. Your waifus. You name it.
+
